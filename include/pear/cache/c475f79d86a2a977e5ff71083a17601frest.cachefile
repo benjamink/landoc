@@ -1,0 +1,9 @@
+a:14:{s:7:"attribs";a:2:{s:5:"xmlns";s:36:"http://pear.php.net/dtd/rest.release";s:18:"xsi:schemaLocation";s:81:"http://pear.php.net/dtd/rest.release     http://pear.php.net/dtd/rest.release.xsd";}s:1:"p";a:2:{s:7:"attribs";a:1:{s:10:"xlink:href";s:24:"/rest/p/auth_prefmanager";}s:8:"_content";s:16:"Auth_PrefManager";}s:1:"c";s:12:"pear.php.net";s:1:"v";s:5:"1.1.4";s:2:"st";s:6:"stable";s:1:"l";s:11:"PHP License";s:1:"m";s:8:"jellybob";s:1:"s";s:28:"Preferences management class";s:1:"d";s:441:"Preference Manager is a class to handle user preferences in a web application, looking them up in a table
+using a combination of their userid, and the preference name to get a value, and (optionally) returning
+a default value for the preference if no value could be found for that user.
+
+It is designed to be used alongside the PEAR Auth class, but can be used with anything that allows you
+to obtain the user's id - including your own code.";s:2:"da";s:19:"2005-04-04 20:06:17";s:1:"n";s:100:"Bugfix release, submitted patches from the bug tracker.
+* Closes #3655
+* Closes #2975
+* Closes #2512";s:1:"f";s:4:"4911";s:1:"g";s:46:"http://pear.php.net/get/Auth_PrefManager-1.1.4";s:1:"x";a:1:{s:7:"attribs";a:1:{s:10:"xlink:href";s:17:"package.1.1.4.xml";}}}
